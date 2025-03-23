@@ -1,0 +1,54 @@
+header {
+    text-align: center;
+    background-color: rgba(7, 7, 7, 0.877);
+    height: 60px;
+    width: auto;
+    font-size: large;
+    color: rgb(231, 11, 47);
+    }
+nav {
+    text-align: center;
+    background-color: rgba(7, 7, 7, 0.877);
+    height: 40px;
+    width: auto; 
+    }
+main {
+    background-color:rgba(219, 214, 214, 0.479);
+    padding: 40px;
+    }
+section {
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    }
+aside {
+    text-align: center;
+    background-color: #fff;
+    height: 300PX;
+    width: 50%;
+    border-radius: 10px;
+    }  
+article {
+    text-align: center;
+    background-color: rgb(216, 202, 202);
+    height: 300PX;
+    width:35%;
+    border-radius: 10px;
+    } 
+footer {
+    background-color: rgb(66, 51, 51);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    }        
+button { 
+    background-color:rgba(7, 7, 7, 0.877);
+    color: #fff;
+    border-color: red;
+    border-radius: 10PX;
+    }
+#Sobre {
+    color: red;
+    font-weight: bolder;
+}
