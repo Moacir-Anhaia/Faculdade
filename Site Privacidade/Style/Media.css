@@ -1,0 +1,102 @@
+@media screen and (max-width: 480px) {
+    header {
+         padding-top: 5vh;
+        padding-bottom: 6vh;
+
+    }
+
+    #Logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    #TamLogo {
+        width: 80px;
+
+    }
+
+    #Tads {
+        font-size: 2.2rem;
+    }
+
+    .Title {
+        font-size: 1.5rem;
+        text-align: center; 
+    }
+
+    .Image {
+        padding-top: 2vh;
+        width: 100vw;
+    }
+
+    .Page {
+        display: flex;
+        padding: 25px;
+        justify-content: center
+    }
+
+    #Warp {
+        flex-wrap: wrap-reverse;
+    }
+
+    #Lgpd {
+
+        width: 80vw;
+
+    }
+
+    #Gif {
+        width: 72vw;
+    }
+
+    .Img {
+        width: 50vw;
+    }
+
+    #AjusteInsta {
+        padding-top: 10px;
+    }
+
+    .Fonte {
+        font-size: 0.8rem;
+    }
+
+    .Fonte>h1, h3 {
+        font-size: 1.9rem;
+        text-align: center;
+        padding-bottom: 2vh;
+    }
+
+    #Legislação {
+        padding: 5px;
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    #Page2 {
+        padding: 30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .Card1 {
+      gap: 5vh;
+    }
+
+    #identidade { 
+        padding-top: 5vh;
+    }
+    
+    #Ajuste {
+        padding-bottom: 5vh;
+    }
+
+    .lgpdtexto{
+        text-align: center;
+    }
+
+    br {
+        display: none;
+    }
+}
+

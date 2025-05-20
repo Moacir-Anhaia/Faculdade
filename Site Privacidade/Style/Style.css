@@ -1,0 +1,167 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    background-color: #101728;
+    h3{
+        text-transform: uppercase;
+    }
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border: 1px solid #0c1220;
+    border-radius: 10px;
+    padding-top: 12vh;
+    padding-bottom: 14vh;
+}
+
+#Logo {
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+
+}
+
+#TamLogo {
+    width: 110px;
+
+}
+
+#Tads {
+    font-size: 3.5rem;
+    color: #fff;
+
+}
+
+.Card1 {
+    display: flex;
+    flex-direction: column;
+    gap: 10vh;
+}
+
+.Title {
+    color: #fff;
+    font-size: 1.8rem;
+    text-shadow: 6px 6px 10px #000;
+    justify-content: center;
+}
+
+.Grifo {
+    text-decoration: underline;
+}
+
+.Page {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    gap: 10vw;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+    border: 1px solid #0c1220;
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
+
+.Especial {
+    text-decoration-line: underline;
+    text-shadow: 1px 1px 5px #d406fdc7;
+}
+
+ul>li {
+    margin: 10px;
+}
+
+.Fonte {
+    color: #fff;
+    font-size: 1.4rem;
+
+}
+
+.Fonte>h1, h3 {
+    color: #d406fd;
+    font-size: 2.5rem;
+    padding-bottom: 3vh;
+
+}
+
+.Fonte>p {
+    padding-bottom: 4vh;
+}
+
+#Gif {
+    width: 300px;
+}
+
+#Ajuste {
+    padding-bottom: 10vh;
+}
+
+.Img {
+    width: 450px;
+}
+
+#AjusteInsta {
+    padding-top: 90px;
+}
+
+#Page2 {
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #0c1220;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    padding-top: 20vh;
+    padding-bottom: 15vh;
+
+}
+
+#Card2 {
+    display: flex;
+    justify-content: center;
+    gap: 10vw;
+    flex-wrap: wrap;
+}
+
+#Legislação {
+    padding-top: 10vh;
+    justify-items: center;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    flex-wrap: wrap;
+    background-color: #0d121f;
+}
+
+button {
+    background: #2c2b2b;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 1.5vh 3vw;
+    border-radius: 50px;
+    border-color: #353232;
+    cursor: pointer;
+    box-shadow: #496da3 5px 5px 50px;
+}
+
+button:hover {
+    transform: scale(1.05);
+    transition: 1s;
+
+}
+
+#identidade{
+    padding-top: 10vh;
+}
+
